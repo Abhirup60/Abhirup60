@@ -1,6 +1,3 @@
-[![](https://raw.githubusercontent.com/Abhirup/Abhirup/master/profile.gif)](https://www.google.com/)<!-- If you want the template for my gif, email me! -->
-
-
 ## Hi there 👋
 
 
